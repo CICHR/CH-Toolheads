@@ -22,4 +22,6 @@ The changeable toolheads are designed for maximum versatility and seamless integ
 
 This system allows you to quickly swap between different toolheads, such as 3D printing extruders, CNC milling tools, lasers, or liquid extruders, without complex rewiring, while maintaining full control over key functions.
 
+Check out my website at www.cichr.com or https://grabcad.com/cichr-1 for more informations.
+
 ![CH-Toolheads](https://github.com/CICHR/CH-Toolheads/blob/main/Toolheads_01.jpg)
