@@ -1,4 +1,3 @@
-Toolhead CH-LASER-LY80:
 The CH-LASER-LY80 toolhead is a versatile and powerful laser module, perfect for cutting and engraving a wide range of materials with precision and efficiency. Featuring the LUNYEE 80W blue diode laser with a 10W optical power output, it delivers exceptional accuracy for both hobbyists and professionals. A built-in WiFi camera ensures precise alignment and real-time monitoring for flawless results.
 
     Cutting Capabilities:
@@ -13,3 +12,5 @@ The CH-LASER-LY80 toolhead is a versatile and powerful laser module, perfect for
 The CH-LASER-LY80 is the perfect toolhead for achieving high-quality cuts and engravings across a wide variety of projects.
 
 Check out my website at www.cichr.com or https://grabcad.com/cichr-1 for more informations.
+
+![CH-LASER-LY80](https://github.com/CICHR/CH-Toolheads/blob/main/LASER/LY80/FOTO/ASSEMBLY_LUNYEE_80W_01.jpg)
