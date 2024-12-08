@@ -11,6 +11,6 @@ The CH-LASER-LY80 toolhead is a versatile and powerful laser module, perfect for
 
 The CH-LASER-LY80 is the perfect toolhead for achieving high-quality cuts and engravings across a wide variety of projects.
 
-Check out my website at www.cichr.com or https://grabcad.com/cichr-1 for more informations.
+Visit our website at www.cichr.com or https://grabcad.com/cichr-1 to learn more about our products, projects, and innovations.
 
 ![CH-LASER-LY80](https://github.com/CICHR/CH-Toolheads/blob/main/LASER/LY80/FOTO/ASSEMBLY_LUNYEE_80W_01.jpg)
